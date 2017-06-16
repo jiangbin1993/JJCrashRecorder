@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name         = 'JJCrashRecorder'
-s.version      = '1.0.1'
+s.version      = '1.0.2'
 s.summary      = 'A tool to record APP crash for iOS.'
 s.homepage     = 'https://github.com/jiangbin1993/JJCrashRecorder'
 s.license      = 'MIT'
